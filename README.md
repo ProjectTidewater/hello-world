@@ -1,5 +1,5 @@
 # hello-world
 Learning to use Github
 
-Just a test
-#another test
+A bit about me
+
